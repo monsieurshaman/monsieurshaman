@@ -11,7 +11,7 @@ am stupid af
 
 ## about monsieurshaman
 
-### who tf is he?
+### who tf is this?
 
 - a web dev
 - genshin player
