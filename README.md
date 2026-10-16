@@ -26,7 +26,6 @@ yes, that's it (idk what to add more)
 </div>
 
 - **Project Prism:** https://proprism.pages.dev
-- **GitHub:** https://github.com/monsieurshaman
 - **Instagram:** https://www.instagram.com/monsieurshaman
 
 ---
@@ -35,4 +34,4 @@ yes, that's it (idk what to add more)
 
 ## what i am doing rn
 ![profile gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTZncTB1ZjVoenpjMHdnMWt5NHJtZG9kOTJiZ2JmNTA4bHRuYmdzMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CaMkrSn06tJcrd6PyJ/giphy.gif)
-<div>
+</div>
