@@ -16,6 +16,8 @@ am stupid af
 - a web dev
 - genshin player
 - zenless player
+- lead dev of Project Prism
+- memeber of "Ouu Shii Productions" (not real)
 
 yes, that's it (idk what to add more)
 
@@ -25,10 +27,24 @@ yes, that's it (idk what to add more)
 # links 
 </div>
 
-- **Project Prism:** https://proprism.pages.dev
-- **Instagram:** https://www.instagram.com/monsieurshaman
+- **My Website:** https://proprism.pages.dev
+- **My Instagram (do follow pls):** https://www.instagram.com/monsieurshaman
 
 ---
+
+# PREFERENCES
+
+- lowercased text in UI
+- dark themes
+- frosted glass
+- material design language or material you
+- sleeping
+
+---
+
+# notes?
+
+more emphasis on front-end designs, junior designer i guess...
 
 <div align="center">
 
