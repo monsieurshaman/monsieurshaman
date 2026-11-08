@@ -1,6 +1,6 @@
 <div align="center">
 
-# monsieurshaman's profile
+# monsieurshaman's public github profile
 
 am stupid af
 
@@ -13,11 +13,11 @@ am stupid af
 
 ### who tf is this?
 
-- a web dev
-- genshin player
+- a junior / indie web dev
+- genshin player (ar. 57)
 - zenless player
 - lead dev of Project Prism
-- memeber of "Ouu Shii Productions" (not real)
+- memeber of "Ouu Shii 👀 Productions" (not real)
 
 yes, that's it (idk what to add more)
 
@@ -34,17 +34,19 @@ yes, that's it (idk what to add more)
 
 # PREFERENCES
 
-- lowercased text in UI
+- lowercased text in UI (sometimes Capitalized but only for other use cases)
 - dark themes
 - frosted glass
 - material design language or material you
+- blurple color / accents
+- well detailed stuff
 - sleeping
 
 ---
 
 # notes?
 
-more emphasis on front-end designs, junior designer i guess...
+best on front-end, like designing stuff for the web but also a dedicated designer on canva, not well on back-end (serverless is best)
 
 <div align="center">
 
