@@ -44,6 +44,14 @@ yes, that's it (idk what to add more)
 
 ---
 
+# projects
+
+- Prism PWA (progressive web app framework by Project Prism)
+- Sand Box 3D (babylon.js game, https://proprism.pages.dev/SandBox3D)
+- Rift RUnners 2D (phaser.js game, https://proprism.pages.dev/RiftRunners2D)
+
+---
+
 # notes?
 
 best on front-end, like designing stuff for the web but also a dedicated designer on canva, not well on back-end (serverless is best)
